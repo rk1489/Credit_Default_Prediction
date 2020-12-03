@@ -24,7 +24,7 @@ def predict_default(features):
 def main():
 
     html_temp = """
-        <div style = "background-color:pink; padding: 10px;">
+        <div style = "background-color:blue; padding: 10px;">
             <center><h1>Credit Default Predictor ML App</h1></center>
         </div><br>
     """
